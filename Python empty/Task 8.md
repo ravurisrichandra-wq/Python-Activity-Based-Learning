@@ -138,3 +138,5 @@ Subject Averages: [78.33333333333333, 83.33333333333333, 81.66666666666667]
 Top Student: Student 2
 Highest Total: 255.0
 # screenshot
+<img width="361" height="331" alt="Screenshot 2026-10-30 191749" src="https://github.com/user-attachments/assets/3e6b00c0-491f-4c01-872d-a33e8d4caa7c" />
+
