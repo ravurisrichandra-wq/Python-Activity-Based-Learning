@@ -103,8 +103,12 @@ Enter quantity: 2
 Product 3
 Enter product price: 1000
 Enter quantity: 1
-# Sample Output
+# Expected Output
 ----- RETAIL BILL -----
 Subtotal: Rs. 8000.0
 Total Discount: Rs. 800.0
 Final Bill Amount: Rs. 7200.0
+# screenshort
+<img width="256" height="265" alt="Screenshot 2026-10-30 190039" src="https://github.com/user-attachments/assets/f71337fb-0a58-4457-bfff-f5d8d722869e" />
+
+
