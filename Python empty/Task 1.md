@@ -93,3 +93,6 @@ Final Marks: [70, 65, 35, 80, 75]
 Total Marks: 325 / 500
 Percentage: 65.0 %
 Result: PASS
+# Screenshort output
+<img width="212" height="137" alt="Screenshot 2026-10-30 184309" src="https://github.com/user-attachments/assets/62b2d613-7edd-4691-bf07-9fd162316658" />
+
